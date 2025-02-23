@@ -1,0 +1,7 @@
+Follow the instrucitons in this file
+
+- create a script in bash
+- this bash should create a folder /backup (in the root directory)
+- then in the it should create a zip of a folder (of which it receives path in the first parameter)
+
+Run this script once and leave it in the root folder of the guest user - That is it :)
